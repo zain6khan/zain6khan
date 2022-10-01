@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @zain6khan!
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning how to use GitHub!
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: zain6khan@gmail.com
+Hi, My name is Zain Khan! I am a junior studying Computer Science at UPenn in the School of Engineering and Applied Science. 
 
-<!---
-zain6khan/zain6khan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Some of my interests and hobbies include chess, working out, playing board/card games, Netflix, and hanging out with friends! 
